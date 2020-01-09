@@ -1,4 +1,4 @@
-# Consumir arquivo em CSV em Java
+# Consumindo arquivo em CSV em Java
 Um sistema simples para consumir arquivos **csv** e interagir com as informações do documento.  
 
 ## O programa
